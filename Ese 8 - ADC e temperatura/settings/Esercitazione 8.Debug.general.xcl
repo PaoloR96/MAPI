@@ -1,0 +1,15 @@
+"D:\File dell'Utente\Programmi\IAR\arm\bin\armproc.dll" 
+
+"D:\File dell'Utente\Programmi\IAR\arm\bin\armstlink2.dll" 
+
+"C:\Users\Antonio\Dropbox\UniversitA'\MAPI\ESERCITAZIONI\Ese 8 - ADC e temperatura\Debug\Exe\c.out" 
+
+--plugin "D:\File dell'Utente\Programmi\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\File dell'Utente\Programmi\IAR\arm\config\debugger\ST\STM32F3xx.dmac" 
+
+--flash_loader "D:\File dell'Utente\Programmi\IAR\arm\config\flashloader\ST\FlashSTM32F3xxC.board" 
+
+
+
+
